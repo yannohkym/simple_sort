@@ -1,0 +1,15 @@
+C:\Users\25474\source\repos\ConsoleMe\bin\Debug\net6.0\ConsoleMe.exe
+C:\Users\25474\source\repos\ConsoleMe\bin\Debug\net6.0\ConsoleMe.deps.json
+C:\Users\25474\source\repos\ConsoleMe\bin\Debug\net6.0\ConsoleMe.runtimeconfig.json
+C:\Users\25474\source\repos\ConsoleMe\bin\Debug\net6.0\ConsoleMe.dll
+C:\Users\25474\source\repos\ConsoleMe\bin\Debug\net6.0\ConsoleMe.pdb
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.csproj.AssemblyReference.cache
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.AssemblyInfoInputs.cache
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.AssemblyInfo.cs
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.csproj.CoreCompileInputs.cache
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.dll
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\refint\ConsoleMe.dll
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.pdb
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ConsoleMe.genruntimeconfig.cache
+C:\Users\25474\source\repos\ConsoleMe\obj\Debug\net6.0\ref\ConsoleMe.dll
