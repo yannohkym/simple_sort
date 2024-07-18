@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualBasic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ConsoleMe
 {
@@ -87,6 +88,9 @@ namespace ConsoleMe
 
 
 
+			Console.WriteLine("binary search with recursion");
+
 		}
+	
 	}
 }
